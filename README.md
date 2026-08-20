@@ -32,11 +32,11 @@ The final dashboard provides a complete overview of loan application performance
 
 ### Dashboard Preview
 
-![Bank Loan Applications Dashboard](./Dashboard%20Preview.png)
+![Bank Loan Applications Dashboard](./https://github.com/Murtazakhan07/Bank_Loan_Application/blob/main/Bank%20Loan%20Application%20Dashboard.png)
 
 
 
-## 🔑 Key Performance Indicators
+##  Key Performance Indicators
 
 The dashboard tracks the following major KPIs:
 
@@ -50,9 +50,9 @@ The dashboard tracks the following major KPIs:
 
 These KPIs provide a quick snapshot of the overall loan portfolio.
 
----
 
-## 📈 Dashboard Analysis
+
+##  Dashboard Analysis
 
 ### 1. Good Loan vs. Bad Loan Analysis
 
@@ -68,7 +68,7 @@ This analysis helps understand:
 
 The dashboard shows that **Good Loans represent the majority of applications**, while Bad Loans represent a smaller portion of the portfolio.
 
----
+
 
 ### 2. Loan Applications by Month
 
@@ -83,7 +83,7 @@ This helps identify:
 
 The dashboard shows an **upward trend in loan applications toward the end of the year**.
 
----
+
 
 ### 3. Loan Applications by Term
 
@@ -94,7 +94,7 @@ Loan applications are analyzed based on different loan terms, including:
 
 This analysis helps understand customer preferences regarding short-term and long-term borrowing.
 
----
+
 
 ### 4. Loan Applications by Employment Length
 
@@ -116,7 +116,6 @@ Categories include:
 
 This provides insight into the relationship between employment stability and loan applications.
 
----
 
 ### 5. Loan Applications by State
 
@@ -129,7 +128,7 @@ It helps identify:
 * Geographic concentration
 * Differences in borrowing activity
 
----
+
 
 ### 6. Loan Applications by Purpose
 
@@ -152,7 +151,7 @@ Major purposes include:
 
 This helps identify the most common customer borrowing needs.
 
----
+
 
 ### 7. Interest Rate Analysis
 
@@ -164,9 +163,9 @@ The dashboard compares average interest rates across different loan statuses:
 
 This provides a useful view of how interest rates vary across loan performance categories.
 
----
 
-## 🎛️ Interactive Filters
+
+##  Interactive Filters
 
 The dashboard includes interactive filters that allow users to analyze loan applications based on different dimensions.
 
@@ -177,9 +176,9 @@ Users can filter the dashboard by:
 
 These filters dynamically update the dashboard visuals and KPIs, making it easier to perform focused analysis.
 
----
 
-# 📊 Pivot Table Analysis
+
+#  Pivot Table Analysis
 
 PivotTables were used as the foundation of the dashboard to summarize and analyze the raw loan dataset.
 
@@ -187,37 +186,37 @@ The project includes **4 PivotTable analysis previews**.
 
 ## Pivot Table 1 — Loan Performance Analysis
 
-![Pivot Table 1](./Pivot%20Table%201.png)
+![Pivot Table 1](./https://github.com/Murtazakhan07/Bank_Loan_Application/blob/main/Pivot%20Table.Bank%20Loan.1.png)
 
 This PivotTable summarizes loan performance and helps compare key measures across different loan categories.
 
----
+
 
 ## Pivot Table 2 — Monthly Loan Applications
 
-![Pivot Table 2](./Pivot%20Table%202.png)
+![Pivot Table 2](./https://github.com/Murtazakhan07/Bank_Loan_Application/blob/main/Pivot%20Table%20.BankLoan.2.png)
 
 This PivotTable analyzes loan applications by month and helps identify trends and changes in application volume.
 
----
+
 
 ## Pivot Table 3 — Loan Purpose Analysis
 
-![Pivot Table 3](./Pivot%20Table%203.png)
+![Pivot Table 3](./https://github.com/Murtazakhan07/Bank_Loan_Application/blob/main/Pivot%20Table%20.BankLoan.3.png)
 
 This PivotTable summarizes loan applications based on their purpose and helps identify the most common reasons customers borrow money.
 
----
+
 
 ## Pivot Table 4 — State / Customer Analysis
 
-![Pivot Table 4](./Pivot%20Table%204.png)
+![Pivot Table 4](./https://github.com/Murtazakhan07/Bank_Loan_Application/blob/main/Pivot%20Table%20.BankLoan.4.png)
 
 This PivotTable provides a geographical and customer-focused analysis of loan applications.
 
----
 
-# 🛠️ Tools & Technologies
+
+#  Tools & Technologies
 
 The project was developed primarily using **Microsoft Excel**.
 
@@ -234,9 +233,9 @@ The project was developed primarily using **Microsoft Excel**.
 * Dashboard Design
 * Geographic Map Visualization
 
----
 
-# 🔄 Project Workflow
+
+#  Project Workflow
 
 The project follows a structured data-analysis workflow:
 
@@ -260,9 +259,9 @@ Dashboard Design
 Business Insights
 ```
 
----
 
-# 🧹 Data Preparation
+
+#  Data Preparation
 
 Before creating the dashboard, the dataset was prepared for analysis.
 
@@ -276,9 +275,9 @@ The preparation process included:
 * Creating calculated metrics
 * Ensuring the dataset was suitable for visualization
 
----
 
-# 📐 Dashboard Design
+
+# Dashboard Design
 
 The dashboard was designed with a focus on:
 
@@ -292,9 +291,9 @@ The dashboard was designed with a focus on:
 
 The design allows users to understand the overall loan portfolio quickly without manually analyzing the underlying dataset.
 
----
 
-# 💡 Key Business Insights
+
+#  Key Business Insights
 
 The dashboard provides several useful business insights:
 
@@ -314,9 +313,9 @@ The dashboard provides several useful business insights:
 
 8. Employment length analysis provides insight into the borrowing behavior of customers with different employment histories.
 
----
 
-# 📁 Project Structure
+
+#  Project Structure
 
 ```text
 Bank-Loan-Applications-Dashboard/
@@ -333,11 +332,8 @@ Bank-Loan-Applications-Dashboard/
 └── 📄 README.md
 ```
 
-> **Note:** Update the file names in the README if your actual GitHub filenames are different.
 
----
-
-# 🖼️ Project Preview
+#  Project Preview
 
 ### Dashboard
 
@@ -347,9 +343,8 @@ The dashboard combines KPIs, charts, maps, and interactive filters into one cent
 
 The four PivotTable previews demonstrate how the underlying data was summarized before being transformed into dashboard visuals.
 
----
 
-# 🚀 Skills Demonstrated
+#  Skills Demonstrated
 
 This project demonstrates practical skills in:
 
@@ -368,7 +363,7 @@ This project demonstrates practical skills in:
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 
 The **Bank Loan Applications Dashboard** transforms raw loan application data into an interactive and business-focused analytical report.
 
