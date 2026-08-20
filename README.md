@@ -32,7 +32,8 @@ The final dashboard provides a complete overview of loan application performance
 
 ### Dashboard Preview
 
-![Bank Loan Applications Dashboard](./https://github.com/Murtazakhan07/Bank_Loan_Application/blob/main/Bank%20Loan%20Application%20Dashboard.png)
+[Bank Loan Applications Dashboard]<img width="1534" height="652" alt="Bank Loan Application Dashboard" src="https://github.com/user-attachments/assets/85ac53d1-377c-420a-8498-d386905e22af" />
+
 
 
 
@@ -186,7 +187,8 @@ The project includes **4 PivotTable analysis previews**.
 
 ## Pivot Table 1 — Loan Performance Analysis
 
-![Pivot Table 1](./https://github.com/Murtazakhan07/Bank_Loan_Application/blob/main/Pivot%20Table.Bank%20Loan.1.png)
+[Pivot Table 1]<img width="1261" height="513" alt="Pivot Table Bank Loan 1" src="https://github.com/user-attachments/assets/968be5a2-b174-433c-b897-3a2508385a37" />
+
 
 This PivotTable summarizes loan performance and helps compare key measures across different loan categories.
 
@@ -194,7 +196,8 @@ This PivotTable summarizes loan performance and helps compare key measures acros
 
 ## Pivot Table 2 — Monthly Loan Applications
 
-![Pivot Table 2](./https://github.com/Murtazakhan07/Bank_Loan_Application/blob/main/Pivot%20Table%20.BankLoan.2.png)
+[Pivot Table 2]<img width="1270" height="664" alt="Pivot Table  BankLoan 2" src="https://github.com/user-attachments/assets/64ff44ff-a246-43b0-b633-a64104ac7e74" />
+
 
 This PivotTable analyzes loan applications by month and helps identify trends and changes in application volume.
 
@@ -202,7 +205,8 @@ This PivotTable analyzes loan applications by month and helps identify trends an
 
 ## Pivot Table 3 — Loan Purpose Analysis
 
-![Pivot Table 3](./https://github.com/Murtazakhan07/Bank_Loan_Application/blob/main/Pivot%20Table%20.BankLoan.3.png)
+[Pivot Table 3]<img width="1369" height="664" alt="Pivot Table  BankLoan 3" src="https://github.com/user-attachments/assets/5471ddbb-906b-4d7a-abfe-fb700d2a46b4" />
+
 
 This PivotTable summarizes loan applications based on their purpose and helps identify the most common reasons customers borrow money.
 
@@ -210,7 +214,8 @@ This PivotTable summarizes loan applications based on their purpose and helps id
 
 ## Pivot Table 4 — State / Customer Analysis
 
-![Pivot Table 4](./https://github.com/Murtazakhan07/Bank_Loan_Application/blob/main/Pivot%20Table%20.BankLoan.4.png)
+[Pivot Table 4]<img width="1207" height="689" alt="Pivot Table  BankLoan 4" src="https://github.com/user-attachments/assets/1fee428b-6edb-4580-841f-e2b6417ebd18" />
+
 
 This PivotTable provides a geographical and customer-focused analysis of loan applications.
 
